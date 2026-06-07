@@ -4,7 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>DevOps Roadmap and Status</title>
-     <title>DevOps Roadmap and Checking</title>
      <title>DevOps Roadmap and Status</title>
     <style>
       * {
@@ -261,7 +260,7 @@
     <div class="navbar">
       <div class="profile">
         <img src="https://avatars.githubusercontent.com/u/138564160?v=4" alt="Your Logo"/>
-        <h3 class="name">Suneel Kumar 
+        <h3 class="name">Suneel Kumar kola 
           <p class="dj">Sr.DevOps Engineer</p>
         </h3>
       </div>
